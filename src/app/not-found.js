@@ -23,7 +23,7 @@ export default function NotFound() {
       </h2>
       
       <p className="mt-4 max-w-md text-sm font-medium text-zinc-500 md:text-base">
-        Looks like you missed a rep or wandered into the wrong gym. The workout page you are looking for doesn't exist.
+        Looks like you missed a rep or wandered into the wrong gym. The workout page you are looking for does not exist.
       </p>
 
       {/* Back to Home Button */}

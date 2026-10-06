@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="flex gap-6 text-[11px] font-bold uppercase tracking-wider text-zinc-400">
             <Link href="/" className="transition-colors hover:text-[#ccff00]">Library</Link>
             <Link href="/my-plan" className="transition-colors hover:text-[#ccff00]">My Plan</Link>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="transition-colors hover:text-[#ccff00]">
+            <a href="https://github.com/Provakar80" target="_blank" rel="noreferrer" className="transition-colors hover:text-[#ccff00]">
               GitHub
             </a>
           </div>
